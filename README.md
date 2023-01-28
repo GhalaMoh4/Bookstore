@@ -1,2 +1,3 @@
-# bookstor
-its a simple python project for a bookstor 
+# bookstore
+##its a simple GUI python project for a bookstore 
+###it contain two files, one for login and one for the form input. 
